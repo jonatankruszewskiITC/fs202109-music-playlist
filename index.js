@@ -16,5 +16,6 @@ const playlist = [
     { title: `Zikukim`, band: `Moshe Perez` },
     { title: `One`, band: `Dua Lipa` },
     { title: "Juicy", band: "The Notorious B.I.G." },
-    { title: `Push It`, band: `Salt N Pepa` }
+    { title: `Push It`, band: `Salt N Pepa` },
+    { title: "Hermetico ", band: "Balkan Beat Box" },
 ];
