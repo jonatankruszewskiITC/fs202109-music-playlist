@@ -11,4 +11,5 @@ const playlist = [
   { title: "Oops I did it again", band: "Britney Spears" },
   { title: `Toxic`, band: `Britney Spears` },
   { title: "Because I Got High", band: "Afroman" },
+  { title: `Hopa` ,band: `Omer Adam` },
 ];
