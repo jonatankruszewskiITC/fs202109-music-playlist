@@ -14,5 +14,6 @@ const playlist = [
     { title: `Hopa`, band: `Omer Adam` },
     { title: "Lets Get It On", band: "Marvin Gaye" },
     { title: `Zikukim`, band: `Moshe Perez` },
+    { title: `One`, band: `Dua Lipa` },
     { title: "Juicy", band: "The Notorious B.I.G." }
 ];
