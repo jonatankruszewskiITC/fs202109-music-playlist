@@ -18,4 +18,5 @@ const playlist = [
     { title: "Juicy", band: "The Notorious B.I.G." },
     { title: `Push It`, band: `Salt N Pepa` },
     { title: "Hermetico ", band: "Balkan Beat Box" },
+    { title: `Im blue` ,band: `Eiffel 65` }
 ];
