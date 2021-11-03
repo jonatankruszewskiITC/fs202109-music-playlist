@@ -4,5 +4,6 @@ const playlist = [
   { title: "Derech Hashalom", band: "Peer Tasi" },
   { title: "Coco Jambo", band: "Mr President" },
   { title: "Sweet child of mine", band: "Gun's and roses" },
+  { title: "Californication", band: "Red Hot Chilli peppers" },
   { title: `Africa`, band: `Toto` },
 ];
