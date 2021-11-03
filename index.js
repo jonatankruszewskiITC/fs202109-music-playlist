@@ -11,7 +11,10 @@ const playlist = [
   { title: "Oops I did it again", band: "Britney Spears" },
   { title: `Toxic`, band: `Britney Spears` },
   { title: "Because I Got High", band: "Afroman" },
-  { title: `Hopa` ,band: `Omer Adam` },
-  { title: `Shut up` ,band: `DRI` },
+  { title: `Hopa`, band: `Omer Adam` },
+  { title: "Lets Get It On", band: "Marvin Gaye" },
+  { title: `Zikukim`, band: `Moshe Perez` },
+  { title: `One`, band: `Dua Lipa` },
+  { title: `Shut up`, band: `DRI` },
 
 ];
