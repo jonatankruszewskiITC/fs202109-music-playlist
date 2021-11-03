@@ -7,6 +7,5 @@ const playlist = [
     { title: "Californication", band: "Red Hot Chilli peppers" },
     { title: `Africa`, band: `Toto` },
     { title: 'From skin to liquid', band: 'Cannibal Corpse' },
-    { title: "Oops I did it again", band: "Britney Spears" }
-
+    { title: "Oops I did it again", band: "Britney Spears" },
 ];
