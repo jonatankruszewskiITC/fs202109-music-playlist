@@ -3,5 +3,6 @@ const playlist = [
     { title: "Born dead", band: "Death" },
     { title: "Derech Hashalom", band: "Peer Tasi" }
     { title: "Coco Jambo", band: "Mr President" }
-    { title: "Sweet child of mine", band: "Gun's and roses" }
+    { title: "Sweet child of mine", band: "Gun's and roses" },
+    { title: "Californication", band: "Red Hot Chilli peppers" }
 ];
