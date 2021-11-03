@@ -10,6 +10,8 @@ const playlist = [
   { title: "From skin to liquid", band: "Cannibal Corpse" },
   { title: "Oops I did it again", band: "Britney Spears" },
   { title: `Toxic`, band: `Britney Spears` },
-  { title: `Shut up`, band: `DRI` },
-  
+  { title: "Because I Got High", band: "Afroman" },
+  { title: `Hopa` ,band: `Omer Adam` },
+  { title: `Shut up` ,band: `DRI` },
+
 ];
