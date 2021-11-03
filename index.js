@@ -12,4 +12,6 @@ const playlist = [
   { title: `Toxic`, band: `Britney Spears` },
   { title: "Because I Got High", band: "Afroman" },
   { title: `Hopa` ,band: `Omer Adam` },
+    { title: "Lets Get It On", band: "Marvin Gaye" },
+    { title: `Zikukim` ,band: `Moshe Perez` },
 ];
