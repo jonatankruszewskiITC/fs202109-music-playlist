@@ -21,4 +21,5 @@ const playlist = [
   { title: "here comes the sun ", band: "the Beatles" },
   { title: "Crazy", band: "Seal" },
   { title: `Dont stop`, band: `Fleetwood Mac` },
+   { title: `Shut up` ,band: `DRI` }
 ];
