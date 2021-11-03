@@ -20,4 +20,5 @@ const playlist = [
   { title: "Hermetico ", band: "Balkan Beat Box" },
   { title: `Im blue`, band: `Eiffel 65` },
   { title: `Dont stop`, band: `Fleetwood Mac` },
+  { title: `Basbusa`, band: `Sharif` },
 ];
