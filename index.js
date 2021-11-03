@@ -6,5 +6,12 @@ const playlist = [
   { title: "Sweet child of mine", band: "Gun's and roses" },
   { title: "Californication", band: "Red Hot Chilli peppers" },
   { title: `Africa`, band: `Toto` },
-  { title: `Drivers License`, band: `Olivia Rodrigo` },
+  { title: `Push It`, band: `Salt N Pepa` },
+  { title: "From skin to liquid", band: "Cannibal Corpse" },
+  { title: "Oops I did it again", band: "Britney Spears" },
+  { title: `Toxic`, band: `Britney Spears` },
+  { title: "Because I Got High", band: "Afroman" },
+  { title: `Hopa` ,band: `Omer Adam` },
+    { title: "Lets Get It On", band: "Marvin Gaye" },
+    { title: `Zikukim` ,band: `Moshe Perez` },
 ];
