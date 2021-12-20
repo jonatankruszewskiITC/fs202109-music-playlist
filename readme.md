@@ -3,5 +3,5 @@
 
 ## Contributors
 
-- [Jonatan](www.github.com/jonatankruszewskiITC)
-- [Aviad](www.github.com/aviadShmuel)
+- [Jonatan](https://www.github.com/jonatankruszewskiITC)
+- [Aviad](https://www.github.com/aviadShmuel)
